@@ -1,5 +1,5 @@
-Day 1	DAY001
-Day 2	DAY002
-Day 3	DAY003
-Day 4	DAY004
-Unscheduled Visit	ZUNSCHLB
+Day 1	DAY01
+Day 2	DAY02
+Day 3	DAY03
+Day 4	DAY04
+Unscheduled Visit	UNSCHLB
