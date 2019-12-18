@@ -1,0 +1,4 @@
+variable | condition | check
+RESULT	float(transfer['RESULT']) and float(transfer['RESULTC'])	float(transfer['RESULT']) == float(transfer['RESULTC'])
+SPCCND	transfer['TSTSTAT'] == "D"	transfer['SPCCND'] == ""
+SPCCND	transfer['TSTSTAT'] == "N"	transfer['SPCCND'] != ""

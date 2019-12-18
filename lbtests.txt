@@ -1,0 +1,2 @@
+LABTYPE LABTEST SASLABNM LBMETHOD TSTCD TSTNAM
+Chemistry	Sodium	Na	Ion Selective Electrode	SODIUM	Sodium	
